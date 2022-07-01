@@ -1,9 +1,9 @@
 <?php
 
 /**
- * Class Utils
+ * Class APIResponse
  */
-class Utils
+class APIResponse
 {
 
     public static function dumpPretty($data)
